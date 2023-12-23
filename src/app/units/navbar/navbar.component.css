@@ -1,0 +1,7 @@
+.nav1{
+    background-color: aqua;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
